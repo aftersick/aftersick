@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aftersick
-- 👀 I’m interested in 
-- 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in researching
+- 🌱 I’m currently learning python language
+- 💞️ I’m looking to collaborate on research in field of paralysis and AI.
 - 📫 How to reach me mail: navdeepsaroha@gmail.com
 
 <!---
